@@ -14,7 +14,7 @@ export default function Portfolio() {
       </div>
     </div>
     <div class="container mx-auto grid grid-cols-4 md:grid-cols-3 gap-8 pb-12">
-        <div className='hover:text-gray-400'>
+        <div className='hover:bg-sky-700'>
           <img src= {image1} alt='Portfolio Item' />
         </div>
         <div className=''>
